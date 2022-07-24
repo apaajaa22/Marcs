@@ -21,9 +21,7 @@ const OnboardingScreen = () => {
 
   function onPressLogin() {
     setMountLogin(true);
-    setTimeout(() => {
-      loginRef.current?.openLogin();
-    }, 300);
+    loginRef.current?.openLogin();
   }
   return (
     <View style={styles.container}>
