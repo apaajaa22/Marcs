@@ -4,6 +4,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#FF6363',
+    position: 'relative',
   },
   containerSwiperTitle: {
     flex: 0.7,
@@ -13,6 +14,7 @@ const styles = StyleSheet.create({
   },
   containerButtonSection: {
     flex: 0.3,
+    marginHorizontal: 20,
   },
   title: {
     fontSize: 16,

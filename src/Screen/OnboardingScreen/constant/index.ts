@@ -4,6 +4,6 @@ export const titleTwo = 'Ruangan tanpa buku seperti tubuh tanpa jiwa.';
 export const titleThree =
   'Membaca semua buku yang bagus layaknya sebuah percakapan dengan pemikiran terbaik di abad-abad sebelumnya.';
 // components
-export const BtnTextLogin = 'Masuk';
-export const BtnTextRegister = 'Daftar';
+export const BtnTextLogin = 'Login';
+export const BtnTextRegister = 'Sign Up';
 export const or = 'Atau';
